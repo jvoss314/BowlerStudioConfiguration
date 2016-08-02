@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/3caaa01955451543f959a49cf3d10320.git:GCODEDemo.groovy": [
+      "https://gist.github.com/3caaa01955451543f959a49cf3d10320.git",
+      "GCODEDemo.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.18.8",
     "showTerminal": true,
