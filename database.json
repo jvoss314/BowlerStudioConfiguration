@@ -8,14 +8,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/3caaa01955451543f959a49cf3d10320.git:GCODEDemo.groovy": [
-      "https://gist.github.com/3caaa01955451543f959a49cf3d10320.git",
-      "GCODEDemo.groovy"
-    ],
-    "https://gist.github.com/03c7592c75152e846e21c8c5b1481f62.git:dyio.groovy": [
-      "https://gist.github.com/03c7592c75152e846e21c8c5b1481f62.git",
-      "dyio.groovy"
-    ],
     "https://gist.github.com/8b2ae0613678f0eb1cdd173834085a2f.git:customDevice.groovy": [
       "https://gist.github.com/8b2ae0613678f0eb1cdd173834085a2f.git",
       "customDevice.groovy"
