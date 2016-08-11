@@ -20,6 +20,6 @@
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.18.8",
-    "showCreatureLab": true
+    "showCreatureLab": false
   }
 }
