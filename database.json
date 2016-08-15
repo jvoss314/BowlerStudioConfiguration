@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/8b2ae0613678f0eb1cdd173834085a2f.git:customDevice.groovy": [
-      "https://gist.github.com/8b2ae0613678f0eb1cdd173834085a2f.git",
-      "customDevice.groovy"
+    "none:U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy": [
+      "none",
+      "U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy"
     ]
   },
   "BowlerStudioConfigs": {
