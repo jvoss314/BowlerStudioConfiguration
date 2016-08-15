@@ -8,9 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
     "none:U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy": [
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy"
+    ],
+    "none:U:\\Usr\\Joe\\BowlerStudioScripts\\MoveLimb.groovy": [
+      "none",
+      "U:\\Usr\\Joe\\BowlerStudioScripts\\MoveLimb.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -20,6 +28,6 @@
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.18.8",
-    "showCreatureLab": false
+    "showCreatureLab": true
   }
 }
