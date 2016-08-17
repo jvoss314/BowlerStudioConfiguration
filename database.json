@@ -12,6 +12,10 @@
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\MovingKinematicsDevices.java"
     ],
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
     "none:U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy": [
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy"
@@ -19,6 +23,10 @@
     "none:U:\\Usr\\Joe\\BowlerStudioScripts\\MoveLimb.groovy": [
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\MoveLimb.groovy"
+    ],
+    "https://gist.github.com/9636544dac8d813ffc9daedad2261168.git:WalkTest.groovy": [
+      "https://gist.github.com/9636544dac8d813ffc9daedad2261168.git",
+      "WalkTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
