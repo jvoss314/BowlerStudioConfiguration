@@ -12,6 +12,10 @@
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\MovingKinematicsDevices.java"
     ],
+    "https://gist.github.com/a8d0fed47fbd27492750970ef6ed0770.git:SimplePhysicsExample.groovy": [
+      "https://gist.github.com/a8d0fed47fbd27492750970ef6ed0770.git",
+      "SimplePhysicsExample.groovy"
+    ],
     "none:U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy": [
       "none",
       "U:\\Usr\\Joe\\BowlerStudioScripts\\SerialDevice.groovy"
@@ -28,6 +32,6 @@
     "showDevices": true,
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "0.18.8",
-    "showCreatureLab": true
+    "showCreatureLab": false
   }
 }
